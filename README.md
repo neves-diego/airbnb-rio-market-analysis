@@ -1,54 +1,44 @@
-# 🏢 Análise de Investimento Airbnb - Rio de Janeiro
+# Análise de Mercado Airbnb – Rio de Janeiro
 
-## 📌 Objetivo
-
-Desenvolver uma análise estratégica para identificar os bairros mais atrativos para investimento em imóveis destinados a Airbnb no Rio de Janeiro.
+Um projeto de análise de dados que investiga preços, localização e tendências de imóveis listados no Airbnb do Rio de Janeiro.
 
 ---
 
-## 📊 Métricas Utilizadas
-
-- Receita anual estimada
-- Taxa de ocupação
-- ROI estimado
-- Score ponderado de investimento
+## Sobre o projeto
+Este projeto nasceu da curiosidade em entender o mercado de aluguel por temporada no Rio. Através de dados do Airbnb, foi possível explorar padrões de preço, distribuição de imóveis e indicadores de ocupação. É uma análise que combina curiosidade, dados e visualização prática.
 
 ---
 
-## 🔎 Principais Insights
-
-- Bairros com menor preço médio apresentam maior potencial de ROI.
-- A taxa de ocupação é o principal driver da receita.
-- Regiões consolidadas oferecem maior estabilidade.
-
----
-
-## ⚙️ Tecnologias Utilizadas
-
-- Python
-- Pandas
-- Matplotlib
-- Google Colab
+## Tecnologias e ferramentas
+- Python 3.11
+- Pandas, Numpy
+- Matplotlib e Seaborn
+- Jupyter Notebook
 
 ---
 
-## 📁 Arquivos
-
-- `analise_airbnb_rio.ipynb` → Notebook completo
-- `analise_airbnb.xlsx` → Resultado exportado
-
----
-
-## 🚀 Próximos Passos
-
-- Modelagem preditiva de preços
-- Dashboard interativo (Streamlit)
-- Análise geoespacial
+## Como usar
+1. Clone o repositório:  
+   `git clone https://github.com/neves-diego/airbnb-rio-market-analysis.git`
+2. Acesse a pasta do projeto:  
+   `cd airbnb-rio-market-analysis`
+3. Instale as dependências:  
+   `pip install -r requirements.txt`
+4. Abra o notebook:  
+   `jupyter notebook Airbnb_Rio.ipynb`
+5. Explore as análises e gráficos passo a passo.
 
 ---
 
-## 👨‍💻 Autor
+## Exemplos e visualizações
+- Distribuição de preços por bairro
+- Ocupação média por tipo de imóvel
+- Insights visuais sobre oferta e demanda
 
-Diego Neves  
-Formação em Jornalismo e Marketing  
-Estudante de Análise de Dados
+---
+
+## Sobre o autor
+
+Diego Neves. Jornalista e profissional de Marketing com transição para Análise de Dados.
+
+LinkedIn: https://www.linkedin.com/in/diego-neves-19274614a/
